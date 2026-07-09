@@ -28,4 +28,10 @@
 
 ###
 
+<div data-importer="grafic" align="left">
+  <ig src="(https://github-readme-stats.shion.dev/api?username=Irmtyan&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>"/>
+  <ig src="(https://streak-stats.demolab.com/?user=Irmtyan&theme=codeSTACKr&hide_border=false)<br/>"/>
+  <ig src="https://github-readme-stats.shion.dev/api/top-langs/?username=Irmtyan&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+
 ###
