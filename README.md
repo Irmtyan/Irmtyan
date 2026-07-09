@@ -9,7 +9,7 @@
 ###
 
 <div data-importer="socials" align="left">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irmtyan"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irmtyan/"/>
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Okanimachii"/>
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irmatiana050107@gmail.com"/>
 </div>
